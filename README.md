@@ -6,7 +6,7 @@
 
 Xinghui Fu<sup>1</sup> · [Zhida Sun](https://zhdsun.github.io/)<sup>1</sup> · Yoojin Jeon<sup>2</sup> · Guozheng Li<sup>3</sup> · [Yu Zhang](https://zhangyu94.github.io/)<sup>4</sup>  · [Bongshin Lee](https://www.bongshiny.com/)<sup>3</sup>  · [Min Lu](https://deardeer.github.io/)<sup>1</sup> 
 
-<sup>1</sup>Shenzhen University · <sup>2</sup>Yonsei University · <sup>3</sup>Beijing Institute of Technology · <sup>4</sup>Huawei Technologies 
+<sup>1</sup>Shenzhen University · <sup>2</sup>Yonsei University · <sup>3</sup>Beijing Institute of Technology · <sup>4</sup> University of Oxford
 
 </div>
 
